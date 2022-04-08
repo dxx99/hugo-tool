@@ -13,3 +13,12 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# hugo build file
+.hugo_build.lock
+
+# idea
+.idea
+
+# 资源
+resources/_gen
